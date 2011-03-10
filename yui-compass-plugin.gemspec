@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{yui-compass-plugin}
-  s.version = "0.2"
+  s.version = "0.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.3.5")
   s.authors = ["Chris Eppstein"]
